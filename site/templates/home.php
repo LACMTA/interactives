@@ -1,16 +1,12 @@
-<?php snippet('header') ?>
 
-  <main class="main" role="main">
+<?php
+snippet('header');
 
-    <div class="text">
-      <h1><?php echo $page->title()->html() ?></h1>
-      <?php echo $page->text()->kirbytext() ?>
-    </div>
+foreach($pages->visible() as $section) {
+	// render with snippet if possible
+	// echo "use snippet: " . getSnippet($section,'item');
+	snippet(getSnippet($section,'item'), array('data' => $section));
+}
 
-    <hr>
-
-    <?php snippet('projects') ?>
-
-  </main>
-
-<?php snippet('footer') ?>
+snippet('footer');
+?>

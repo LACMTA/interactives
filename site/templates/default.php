@@ -1,12 +1,66 @@
-<?php snippet('header') ?>
+<?php
+// set up the custom variables
+if ( empty($data) ):
+  $data = $page;
+endif;
+list($displaytitle, $mysnippet) = setVars($data,$asnippet="item");
+?>
 
-  <main class="main" role="main">
+<?php
+snippet('header');
+?>
 
-    <div class="text">
-      <h1><?php echo $page->title()->html() ?></h1>
-      <?php echo $page->text()->kirbytext() ?>
-    </div>
+<section id="<?php echo $data->uid() ?>" class="headline-section section-gray section">
 
-  </main>
+	<div class="container">
 
-<?php snippet('footer') ?>
+		<h2 class="section-heading text-center"><?php echo $displaytitle ?></h2>
+
+    <div class="about-row row">
+
+					<!-- Images? make a slider -->
+          <?php if ($page->hasImages()): ?>
+					  <div class="about-image col-md-6 fadeIn animated done-animation" data-animation="fadeIn">
+              <?php foreach($data->images() as $image): ?>
+                <figure>
+                  <a href="<?php echo $image->url() ?>">
+                  <img src="<?php echo $image->url() ?>" alt="">
+                  </a>
+                </figure>
+              <?php endforeach ?>
+					</div>
+        <?php endif; ?>
+
+
+
+					<!-- DESCRIPTION TEXT -->
+					<div class="about-text">
+						<p>
+              <?php echo $data->text()->kirbytext() ?>
+            </p>
+
+
+    			<?php
+    				foreach($data->children()->visible() as $eapage):
+              // render with snippet if possible
+              snippet(getSnippet($eapage,'item'), array('data' => $eapage));
+
+                echo '<div class="benefit">';
+        					foreach($eapage->children()->visible() as $innerpage):
+                    // use snippet if possible
+                    snippet(getSnippet($innerpage,'item'), array('data' => $innerpage));
+        					endforeach;
+                echo '</div>';
+
+              echo '</div>';
+    				endforeach;
+    			?>
+
+
+        </div>
+      </div>
+
+
+<?php
+snippet('footer');
+?>
