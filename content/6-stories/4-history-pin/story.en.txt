@@ -1,0 +1,25 @@
+Title: History Pin
+
+----
+
+Subtitle: History Pin
+
+----
+
+Text: (link: https://www.historypin.org/channels/view/9987/#!photos/list text: History Pin)
+
+----
+
+Jumplink: https://www.historypin.org/channels/view/9987/#!photos/list
+
+----
+
+Tags: 
+
+----
+
+Category: library
+
+----
+
+Mysnippet: link

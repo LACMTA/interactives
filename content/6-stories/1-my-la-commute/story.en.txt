@@ -1,0 +1,25 @@
+Title: My LA Commute
+
+----
+
+Text: 
+
+----
+
+Tags: la,commute
+
+----
+
+Category: riders
+
+----
+
+Subtitle: My LA Commute
+
+----
+
+Jumplink: http://www.zocalopublicsquare.org/mylacommute
+
+----
+
+Mysnippet: link

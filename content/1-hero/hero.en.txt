@@ -1,0 +1,29 @@
+Title: 0 Hero
+
+----
+
+Text: 
+
+----
+
+Herovideo-url: /assets/videos/video-bg.mp4
+
+----
+
+Image-url: 
+
+----
+
+Downlink: about
+
+----
+
+Downlink-title: Past, Present, Future
+
+----
+
+Subtitle: 1.5 Billion Rides and Counting
+
+----
+
+Mysnippet: hero

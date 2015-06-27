@@ -1,0 +1,45 @@
+Title: 3 Feature Bridge
+
+----
+
+Subtitle: Before and After: 1st Street Bridge
+
+----
+
+Text: 1st Street Bridge
+
+----
+
+Tags: 
+
+----
+
+Leftimage-url: http://kirby.dev/assets/images/contents/detail_gold_before_1020x640.png
+
+----
+
+Leftimage-label: Before
+
+----
+
+Rightimage-url: http://kirby.dev/assets/images/contents/detail_gold_after_1020x640.png
+
+----
+
+Rightimage-label: After
+
+----
+
+Mysnippet: juxtapose
+
+----
+
+Credit: Metro
+
+----
+
+Width: 90%
+
+----
+
+Height: 640px

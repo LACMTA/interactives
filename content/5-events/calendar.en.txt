@@ -1,0 +1,88 @@
+Title: 5 Events
+
+----
+
+Calendar: 
+
+- 
+  summary: 'Dave Stuckey & the Hot House Gang'
+  description: At Union Station
+  category: concerts
+  _begin_date: 2015-07-03
+  _begin_time: 16:00
+  _end_date: 2015-07-03
+  _end_time: 18:00
+- 
+  summary: Dengue Fever
+  description: Fred Harvey Room, Union Station
+  category: concerts
+  _begin_date: 2015-07-31
+  _begin_time: 20:00
+  _end_date: 2015-07-31
+  _end_time: 22:00
+- 
+  summary: Art Tour
+  description: Begins at Hollywood/Highland Station
+  category: arts
+  _begin_date: 2015-07-04
+  _begin_time: 10:00
+  _end_date: 2015-07-04
+  _end_time: 12:00
+- 
+  summary: Art Tour
+  description: Begins at Union Station Info Kiosk
+  category: arts
+  _begin_date: 2015-07-05
+  _begin_time: 10:00
+  _end_date: 2015-07-05
+  _end_time: 12:00
+- 
+  summary: 'Art & Architecture Tour of Union Station'
+  description: Begins at Union Station Info Kiosk
+  category: arts
+  _begin_date: 2015-07-12
+  _begin_time: 10:00
+  _end_date: 2015-07-12
+  _end_time: 12:00
+- 
+  summary: 'Art & Architecture Tour of Union Station'
+  description: Begins at Union Station Kiosk Tower
+  category: arts
+  _begin_date: 2015-07-18
+  _begin_time: 10:00
+  _end_date: 2015-06-18
+  _end_time: 12:00
+- 
+  summary: Art Tour
+  description: Details coming soon!
+  category: arts
+  _begin_date: 2015-07-19
+  _begin_time:
+  _end_date: 2015-07-19
+  _end_time:
+- 
+  summary: Publish!
+  description: >
+    A collaboration with Writ Large Press;
+    meet at Union Station Info Kiosk
+  category: literary
+  _begin_date: 2015-07-24
+  _begin_time: 16:00
+  _end_date: 2015-07-24
+  _end_time: 18:00
+
+----
+
+Subtitle: Events
+
+----
+
+Mysnippet: events
+
+----
+
+Text: 
+
+Join us for the festivities! Scroll below to learn about the free concerts and tours in July. In honor of the 25th anniversary, we’ll be giving out free prizes to the first 25 people to arrive to each event.
+
+You can also join the conversation by using these Instagram hashtags. You may see your picture here!

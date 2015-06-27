@@ -1,0 +1,9 @@
+Title: Construction Cost
+
+----
+
+Text: $877 million
+
+----
+
+Icon: usd

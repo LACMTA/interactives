@@ -1,0 +1,9 @@
+Title: number
+
+----
+
+Text: 
+
+----
+
+Mynumber: 80

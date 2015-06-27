@@ -1,0 +1,13 @@
+Title: number
+
+----
+
+Text: 
+
+----
+
+Mynumber: 1,200,000
+
+----
+
+Subtitle: 
