@@ -14,7 +14,7 @@ Tags:
 
 ----
 
-Leftimage-url: http://kirby.dev/assets/images/contents/7th_metro_then.jpg
+Leftimage-url: /assets/images/contents/7th_metro_then.jpg
 
 ----
 
@@ -22,7 +22,7 @@ Leftimage-label: Then
 
 ----
 
-Rightimage-url: http://kirby.dev/assets/images/contents/7th_metro_now.jpg
+Rightimage-url: /assets/images/contents/7th_metro_now.jpg
 
 ----
 

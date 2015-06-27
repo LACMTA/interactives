@@ -14,7 +14,7 @@ Tags:
 
 ----
 
-Leftimage-url: http://kirby.dev/assets/images/contents/detail_gold_before_1020x640.png
+Leftimage-url: /assets/images/contents/detail_gold_before_1020x640.png
 
 ----
 
@@ -22,7 +22,7 @@ Leftimage-label: Before
 
 ----
 
-Rightimage-url: http://kirby.dev/assets/images/contents/detail_gold_after_1020x640.png
+Rightimage-url: /assets/images/contents/detail_gold_after_1020x640.png
 
 ----
 
