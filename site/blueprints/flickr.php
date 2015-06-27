@@ -1,11 +1,11 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Home
-pages:
-  template: home
+title: Flickr
+pages: true
+files: true
 fields:
   bluprint:
-    label: Home page
+    label: Flickr page
     type: headline
   title:
     label: Title
@@ -22,4 +22,7 @@ fields:
   text:
     label: Text
     type:  textarea
-    size:  large
+  map:
+    label: iFrame link
+    type:  text
+    default: ""

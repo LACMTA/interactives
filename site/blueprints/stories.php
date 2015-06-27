@@ -1,11 +1,15 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Home
+title: Stories
 pages:
-  template: home
+  template:
+    - story
+    - iframe
+    - juxtapose
+files: false
 fields:
   bluprint:
-    label: Home page
+    label: Stories page
     type: headline
   title:
     label: Title
@@ -22,4 +26,3 @@ fields:
   text:
     label: Text
     type:  textarea
-    size:  large

@@ -1,11 +1,10 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Home
-pages:
-  template: home
+title: Number
+pages: false
 fields:
   bluprint:
-    label: Home page
+    label: Number page
     type: headline
   title:
     label: Title
@@ -20,6 +19,9 @@ fields:
     type:  text
     width: 1/2
   text:
-    label: Text
+    label: Units
     type:  textarea
     size:  large
+  mynumber:
+    label: My Number
+    type:  text

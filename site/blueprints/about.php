@@ -1,11 +1,11 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Home
-pages:
-  template: home
+title: About
+pages: true
+files: true
 fields:
   bluprint:
-    label: Home page
+    label: About page
     type: headline
   title:
     label: Title
@@ -19,7 +19,3 @@ fields:
     label: Override the default snippet
     type:  text
     width: 1/2
-  text:
-    label: Text
-    type:  textarea
-    size:  large

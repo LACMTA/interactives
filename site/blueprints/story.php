@@ -1,11 +1,12 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Error
+title: Story
 pages: false
-files: false
+files:
+  sortable: true
 fields:
   bluprint:
-    label: Error page
+    label: Story page
     type: headline
   title:
     label: Title
@@ -22,4 +23,17 @@ fields:
   text:
     label: Text
     type:  textarea
-    size:  large
+  link:
+    label: Link (use this when a story has no content)
+    type:  url
+  tags:
+    label: Tags
+    type:  tags
+  category:
+    label: Category
+    type: radio
+    options:
+      riders: From Riders
+      partners: From Partners
+      metro: From Metro
+      library: From the Library

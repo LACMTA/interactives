@@ -1,11 +1,12 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Home
-pages:
-  template: home
+title: Instagram
+pages: false
+files:
+  sortable: true
 fields:
   bluprint:
-    label: Home page
+    label: Instagram page
     type: headline
   title:
     label: Title
@@ -19,7 +20,7 @@ fields:
     label: Override the default snippet
     type:  text
     width: 1/2
-  text:
-    label: Text
-    type:  textarea
-    size:  large
+  link:
+    label: Instagram Tag
+    type:  text
+    defult: 'MetroPresents'

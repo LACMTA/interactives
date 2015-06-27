@@ -1,11 +1,12 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Error
+title: Video
 pages: false
-files: false
+files:
+  sortable: true
 fields:
   bluprint:
-    label: Error page
+    label: Video page
     type: headline
   title:
     label: Title
@@ -22,4 +23,19 @@ fields:
   text:
     label: Text
     type:  textarea
-    size:  large
+  tags:
+    label: Tags
+    type:  tags
+  hero:
+    label: Hero
+    type: checkbox
+    text: Do you want to display the Hero image?
+  videotype:
+    label: Pick a video provider
+    type: headline
+  vimeoID:
+    label: Vimeo ID
+    type:  text
+  youtubeID:
+    label: YouTube ID
+    type:  text

@@ -1,11 +1,11 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Home
-pages:
-  template: home
+title: Links
+pages: true
+files: false
 fields:
   bluprint:
-    label: Home page
+    label: Quick links page
     type: headline
   title:
     label: Title
@@ -22,4 +22,3 @@ fields:
   text:
     label: Text
     type:  textarea
-    size:  large
