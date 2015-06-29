@@ -18,8 +18,8 @@ Subtitle: A Walker in LA
 
 ----
 
-Jumplink: http://www.awalkerinla.com/
+Link: http://www.awalkerinla.com/
 
 ----
 
-Mysnippet: story
+Mysnippet: link

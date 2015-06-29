@@ -14,12 +14,8 @@ Category: library
 
 ----
 
-Subtitle: Blue Line Gallery
+Subtitle: 
 
 ----
 
-Jumplink: https://www.pinterest.com/metrolibrarian/blue-line-25th-anniversary/
-
-----
-
-Mysnippet: link
+Link: https://www.pinterest.com/metrolibrarian/blue-line-25th-anniversary/

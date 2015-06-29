@@ -18,7 +18,7 @@ Subtitle: My LA Commute
 
 ----
 
-Jumplink: http://www.zocalopublicsquare.org/mylacommute
+Link: http://www.zocalopublicsquare.org/mylacommute
 
 ----
 

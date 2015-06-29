@@ -10,7 +10,7 @@ Text: (link: https://www.historypin.org/channels/view/9987/#!photos/list text: H
 
 ----
 
-Jumplink: https://www.historypin.org/channels/view/9987/#!photos/list
+Link: https://www.historypin.org/channels/view/9987/#!photos/list
 
 ----
 
