@@ -28,3 +28,7 @@ make Kirby work. For more fine-grained configuration
 of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
+
+// for postmark
+c::set('email.use', 'postmark');
+c::set('email.postmark.key', '32cf8007-aa6f-4e5a-834a-6ed7e3792fb5');
