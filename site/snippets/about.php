@@ -1,11 +1,8 @@
 <?php
 // set up the custom variables
-if ( empty($data) ):
-  $data = $page;
-endif;
+$data ?: $page;
 list($displaytitle, $mysnippet) = setVars($data,"item");
 ?>
-
 
 <!-- ABOUT
   ================================= -->

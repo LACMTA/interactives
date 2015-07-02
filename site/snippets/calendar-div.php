@@ -2,13 +2,9 @@
 	$tmpDate = getdate(0);
 	$currentDate = getdate();
 
-?>
-<?php
-// set up the custom variables
-if ( empty($data) ):
-  $data = $page;
-endif;
-list($displaytitle, $mysnippet) = setVars($data,"item");
+	// set up the custom variables
+	$data ?: $page;
+	list($displaytitle, $mysnippet) = setVars($data,"item");
 ?>
 
 

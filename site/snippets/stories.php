@@ -16,9 +16,7 @@ $show_library   = ( count($stories_library)>0 );
 ?>
 <?php
 // set up the custom variables
-if ( empty($data) ):
-  $data = $page;
-endif;
+$data ?: $page;
 list($displaytitle, $mysnippet) = setVars($data,"item");
 ?>
 

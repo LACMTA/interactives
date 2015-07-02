@@ -8,6 +8,8 @@
 ?>
 
 <?php
+    $data ?: $page;
+    
     snippet('calendar-div', array(
         'calendar'  => $calendar,
         'subtitle'  => $data->subtitle(),
