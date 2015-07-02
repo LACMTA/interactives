@@ -7,3 +7,7 @@ Subtitle: Blue Line Timeline
 ----
 
 Link: http://www.tiki-toki.com/timeline/entry/462977/Before-the-Blue-Line/
+
+----
+
+Mysnippet: link

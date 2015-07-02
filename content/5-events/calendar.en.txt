@@ -5,75 +5,87 @@ Title: 5 Events
 Calendar: 
 
 - 
-  summary: 'Dave Stuckey & the Hot House Gang'
-  description: At Union Station
+  summary: 'Dave Stuckey & the Hot House Gang – Rompin’ & Stompin’'
+  description: 'Swinging & singing 1920s and 30s jazz in the Union Station Waiting Room'
   category: concerts
   _begin_date: 2015-07-03
   _begin_time: 16:00
   _end_date: 2015-07-03
   _end_time: 18:00
 - 
-  summary: Dengue Fever
-  description: Fred Harvey Room, Union Station
+  summary: Art Tour of Rail Stations
+  description: >
+    Begins at street level entrance to
+    Hollywood/Highland station
   category: concerts
-  _begin_date: 2015-07-31
-  _begin_time: 20:00
-  _end_date: 2015-07-31
-  _end_time: 22:00
-- 
-  summary: Art Tour
-  description: Begins at Hollywood/Highland Station
-  category: arts
   _begin_date: 2015-07-04
   _begin_time: 10:00
   _end_date: 2015-07-04
   _end_time: 12:00
 - 
-  summary: Art Tour
-  description: Begins at Union Station Info Kiosk
-  category: arts
+  summary: 'Art & Architecture Tour of Union Station'
+  description: >
+    Begins at the information booth inside
+    the Alameda St. entrance to Union
+    Station
   _begin_date: 2015-07-05
   _begin_time: 10:00
   _end_date: 2015-07-05
   _end_time: 12:00
 - 
   summary: 'Art & Architecture Tour of Union Station'
-  description: Begins at Union Station Info Kiosk
-  category: arts
+  description: >
+    Begins at the information booth inside
+    the Alameda St. entrance to Union
+    Station
   _begin_date: 2015-07-12
   _begin_time: 10:00
   _end_date: 2015-07-12
   _end_time: 12:00
 - 
   summary: 'Art & Architecture Tour of Union Station'
-  description: Begins at Union Station Kiosk Tower
-  category: arts
+  description: >
+    Begins at the information booth inside
+    the Alameda St. entrance to Union
+    Station
   _begin_date: 2015-07-18
   _begin_time: 10:00
   _end_date: 2015-06-18
   _end_time: 12:00
 - 
-  summary: Art Tour
-  description: Details coming soon!
-  category: arts
-  _begin_date: 2015-07-19
-  _begin_time:
-  _end_date: 2015-07-19
-  _end_time:
-- 
-  summary: Publish!
+  summary: Art Tour of Rail Stations
   description: >
-    A collaboration with Writ Large Press;
-    meet at Union Station Info Kiosk
-  category: literary
+    Begins at street level entrance to North
+    Hollywood rail station
+  category: concerts
+  _begin_date: 2015-07-19
+  _begin_time: 10:00
+  _end_date: 2015-07-19
+  _end_time: 12:00
+- 
+  summary: >
+    PUBLISH! Your Journey – A Transitory
+    Writing Activity
+  description: >
+    Meet at the information booth inside the
+    Alameda St. entrance to Union Station
   _begin_date: 2015-07-24
   _begin_time: 16:00
   _end_date: 2015-07-24
   _end_time: 18:00
+- 
+  summary: >
+    MALABOMBA! LA’s Wildest Pan-Global
+    International Dance Party
+  description: Concert in the Fred Harvey Room
+  _begin_date: 2015-07-31
+  _begin_time: 20:00
+  _end_date: 2015-07-31
+  _end_time:
 
 ----
 
-Subtitle: Events
+Subtitle: 
 
 ----
 

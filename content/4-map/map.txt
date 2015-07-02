@@ -1,0 +1,21 @@
+Title: 4 Map
+
+----
+
+Subtitle: Blooming Map
+
+----
+
+Text: 
+
+----
+
+Height: 800px
+
+----
+
+Width: 100%
+
+----
+
+Mysnippet: map
